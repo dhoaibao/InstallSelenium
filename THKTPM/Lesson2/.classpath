@@ -6,8 +6,8 @@
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="D:/Selenium/selenium-server-4.0.0-alpha-2.jar"/>
-	<classpathentry kind="lib" path="D:/Selenium/selenium-server-4.0.0-alpha-2-sources.jar"/>
-	<classpathentry kind="lib" path="D:/Selenium/selenium-server-standalone-4.0.0-alpha-2.jar"/>
+	<classpathentry kind="lib" path="D:/Install Selenium/Selenium/selenium-server-4.0.0-alpha-2.jar"/>
+	<classpathentry kind="lib" path="D:/Install Selenium/Selenium/selenium-server-4.0.0-alpha-2-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Install Selenium/Selenium/selenium-server-standalone-4.0.0-alpha-2.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

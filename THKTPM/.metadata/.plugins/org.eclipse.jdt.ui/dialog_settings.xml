@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
-	<item key="org.eclipse.jdt.ui.lastextjar" value="D:\Install Selenium\poi-bin-5.2.3\auxiliary"/>
+	<item key="org.eclipse.jdt.ui.lastextjar" value="D:\Install Selenium\poi-bin-5.2.3"/>
 	<item key="org.eclipse.jdt.ui.last.selected.jre.kind2" value="2"/>
 	<item key="org.eclipse.jdt.ui.last.selected.execution.enviroment" value="JavaSE-14"/>
 	<section name="completion_proposal_size">
@@ -30,6 +30,6 @@
 		<item key="create_unimplemented" value="true"/>
 	</section>
 	<section name="ClasspathContainerSelectionPage">
-		<item key="index" value="0"/>
+		<item key="index" value="3"/>
 	</section>
 </section>
