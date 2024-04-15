@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-08T09:45:08Z" name="Default suite" finished-at="2024-04-08T09:45:08Z" duration-ms="17">
+    <groups>
+    </groups>
+    <test started-at="2024-04-08T09:45:08Z" name="Default test" finished-at="2024-04-08T09:45:08Z" duration-ms="17">
+      <class name="Bookings.BookFlight">
+        <test-method signature="BookFlight_OneWay_TestCase3()[pri:0, instance:Bookings.BookFlight@67e2d983]" started-at="2024-04-08T16:45:08Z" name="BookFlight_OneWay_TestCase3" finished-at="2024-04-08T16:45:08Z" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BookFlight_OneWay_TestCase3 -->
+        <test-method signature="BookFlight_OneWay_TestCase4()[pri:0, instance:Bookings.BookFlight@67e2d983]" started-at="2024-04-08T16:45:08Z" name="BookFlight_OneWay_TestCase4" finished-at="2024-04-08T16:45:08Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BookFlight_OneWay_TestCase4 -->
+        <test-method signature="BookFlight_RoundTrip_TestCase1()[pri:0, instance:Bookings.BookFlight@67e2d983]" started-at="2024-04-08T16:45:08Z" name="BookFlight_RoundTrip_TestCase1" finished-at="2024-04-08T16:45:08Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BookFlight_RoundTrip_TestCase1 -->
+        <test-method signature="BookFlight_RoundTrip_TestCase2()[pri:0, instance:Bookings.BookFlight@67e2d983]" started-at="2024-04-08T16:45:08Z" name="BookFlight_RoundTrip_TestCase2" finished-at="2024-04-08T16:45:08Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BookFlight_RoundTrip_TestCase2 -->
+      </class> <!-- Bookings.BookFlight -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

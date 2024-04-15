@@ -1,0 +1,10 @@
+package basicsOfTestNG;
+
+public class FirstTestNGProgram {
+	
+	@Test
+	public void tc1() {
+		System.out.println("My first TestNG Testcase");
+	}
+
+}
