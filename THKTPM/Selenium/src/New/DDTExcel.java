@@ -12,7 +12,7 @@ public class DDTExcel {
 	// TODO Auto-generated method stub
 	
 	
-		WebDriver driver;  
+		WebDriver driver;
 		
 		protected static String result;
 		

@@ -5,7 +5,7 @@
     <classes>
       <class name="New.DDTExcel">
         <methods>
-          <include name="DemoProject" invocation-numbers="3 4"/>
+          <include name="DemoProject" invocation-numbers="0 1 2 3 4"/>
           <include name="ProgramTermination"/>
         </methods>
       </class> <!-- New.DDTExcel -->
