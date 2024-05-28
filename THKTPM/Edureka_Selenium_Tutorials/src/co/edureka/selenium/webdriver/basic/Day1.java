@@ -43,6 +43,7 @@ public class Day1 {
 		jse = (JavascriptExecutor)driver;
 		jse.executeScript("scroll(0, 1600)");
 		driver.findElement(By.xpath("//*[@id=\'add-master-courses\']/a[12]/div[1]/div[2]/div[1]/div[1]/h3")).click();
+		
 	}
 	
 	public static void main(String[] args) {
